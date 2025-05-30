@@ -9,4 +9,5 @@ steps:
 5. Datasets are avaialble at -
 
     105 PinsFace dataset: https://www.kaggle.com/hereisburak/pins-face-recognition
-    Casia3D face dataset: https://biometrics.idealtest.org 
+    Casia3D face dataset: https://biometrics.idealtest.org
+    ORL dataset: '/kaggle/input/face-recognition/ORL_faces.npz'
