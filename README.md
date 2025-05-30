@@ -7,5 +7,6 @@ steps:
 3. Now run the Facenet_privacy file for facenet results with and without encryption
 4. Now run the Arcface_privacy file for Arcface results with and without encryption
 5. Datasets are avaialble at -
-     105 PinsFace dataset: https://www.kaggle.com/hereisburak/pins-face-recognition
-     Casia3D face dataset: https://biometrics.idealtest.org 
+
+    105 PinsFace dataset: https://www.kaggle.com/hereisburak/pins-face-recognition
+    Casia3D face dataset: https://biometrics.idealtest.org 
